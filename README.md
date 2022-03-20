@@ -1,2 +1,2 @@
-# javascript
- Linguagem Javascript
+# JavaScript
+ Curso de JavaScript
